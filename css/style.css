@@ -3,7 +3,7 @@ body {
 }
 
 .ttl {
-    background-color: rgb(61, 75, 83);
+    background-color: rgb(61, 75, 83, 0.8);
     padding: 10px 0px;
     color: whitesmoke;
     letter-spacing: 5px;
